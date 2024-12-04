@@ -1,1 +1,1 @@
-This is a repo containing all correlation rules saved from exaverser environment.
+This is a repo containing all correlation rules saved from exaverse environment.
