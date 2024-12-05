@@ -28,8 +28,9 @@ Rule #26: Slow Brute Force.json<br>
 Rule #27: success login.json<br>
 Rule #28: Team 2 | 10 Failed followed by 1 success.json<br>
 Rule #29: Team 2 | Simple Brute force.json<br>
-Rule #30: UAC bypass via event viewer.json<br>
-Rule #31: Unauthorized software downloaded OR detected.json<br>
-Rule #32: User added to RDP users windows group.json<br>
-Rule #33: WAF Event (SQL Injection).json<br>
-<br><h1>Total number of rules: 33</h1>
+Rule #30: Test.json<br>
+Rule #31: UAC bypass via event viewer.json<br>
+Rule #32: Unauthorized software downloaded OR detected.json<br>
+Rule #33: User added to RDP users windows group.json<br>
+Rule #34: WAF Event (SQL Injection).json<br>
+<br><h1>Total number of rules: 34</h1>
